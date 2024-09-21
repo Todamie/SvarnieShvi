@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SvarnieShvi</string>
+    <string-array name="template">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
